@@ -1,4 +1,5 @@
-- name:
+---
+- name: 
   hosts: all
   become: true
   vars:
